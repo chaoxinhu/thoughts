@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report to help WeIdentity improve
 
 ---
 
@@ -17,7 +17,7 @@ Describe what you expected to happen and what actually happened.
 
 ## Environment
 - Blockchain type (FISCO-BCOS, Fabric, or Ethereum):
-- Blockchain version:
+- Blockchain version and network:
 - WeIdentity version:
 
 ## Additional context
@@ -28,4 +28,4 @@ Describe what you expected to happen and what actually happened.
 
 #### Log Files
 
-- FISCO-BCOS: You can find them at /log/ on the blockchain server.
+- FISCO-BCOS: You can find them at /log/ on the blockchain node.

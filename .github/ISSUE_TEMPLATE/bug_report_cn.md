@@ -1,31 +1,31 @@
 ---
-name: 报告问题
-about: 撰写您发现的问题，帮助我们改善
+name: 提交错误报告
+about: 根据使用WeIdentity过程中发现的问题，提交一份错误报告
 
 ---
 
-If you are reporting a problem, please make sure to provide the following information:
+创建一份错误报告需要您填写以下内容：
 
-## Summary
-A clear and concise description of what the bug is.
+## 概述
+清晰、准确地概述所遇到的问题。
 
-## To Reproduce
-Steps to reproduce the behavior.
+## 复现
+复现问题的步骤。
 
-## Expected behavior and actual behavior
-Describe what you expected to happen and what actually happened.
+## 期望结果与实际结果
+描述您所期望的返回结果和实际的返回结果。
 
-## Environment
-- Blockchain type (FISCO-BCOS, Fabric, or Ethereum):
-- Blockchain version:
-- WeIdentity version:
+## 环境
+- 区块链类型（FISCO-BCOS，Fabric，Ethereum）：
+- 区块链版本及网络：
+- WeIdentity版本：
 
-## Additional context
-#### Config Files
+## 其他内容
+#### 配置文件
 
-- FISCO-BCOS: Please refer to [FISCO-BCOS site](https://github.com/FISCO-BCOS/FISCO-BCOS) for more details.
-- WeIdentity: Grab them at /src/main/resources/.
+- FISCO-BCOS: 请访问 [FISCO-BCOS官网](https://github.com/FISCO-BCOS/FISCO-BCOS) 以获得更多细节信息。
+- WeIdentity: 请上传所有位于 /src/main/resources/ 目录下的文件。
 
-#### Log Files
+#### 日志文件
 
-- FISCO-BCOS: You can find them at /log/ on the blockchain server.
+- FISCO-BCOS: 请上传区块链节点 /log/ 目录下的文件。

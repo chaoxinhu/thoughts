@@ -1,20 +1,19 @@
 ---
-name: 提出需求
-about: 为WeIdentity提出您的新创意
+name: 提交需求报告
+about: 为WeIdentity提出新的功能需求
 
 ---
 
-## Summary
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+创建一份需求报告需要您填写以下内容：
 
-## Expectation
-A clear and concise description of what you want to happen.
+## 概述
+清晰、准确地概述您所遇到的困难。
 
-## Design (Optional)
-A clear and concise description of what does your solution look like. Rich text and diagrams are preferred.
+## 期望结果
+清晰、准确地概述您想得到的结果或反馈。
 
-## Planning (Optional)
-A clear and concise description of the plan to make the solution ready. It can include a development timeline, resource estimation, and other related things.
+## 设计方案（选填）
+清晰、准确地概述您的设计思路或解决方案。如果有富文本、架构图或交互图就更好了。
 
-## Additional context (Optional)
-Add any other context or screenshots about the feature request here.
+## 其他内容（选填）
+请添加一些额外的文字、案例或者图片，以便让我们更好地了解您的需求。
