@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 提出需求
+about: 为WeIdentity提出您的新创意
 
 ---
 
